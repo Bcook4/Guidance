@@ -1,0 +1,217 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+body {
+    padding-top: 70px;
+    background-color: #779E7E;
+}
+.navbar {
+    background-color: #779E7E !important ;
+    color: white;
+}
+
+.navbar-nav {
+    font-family: 'Quicksand', sans-serif;
+    display: flex;
+    justify-content: space-between;
+    align-items: right;
+    color: white;
+}
+.nav-link {
+    color: white !important;
+}
+nav.navbar.navbar-expand-lg.navbar-light.bg-light {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+.ListenToMusic {
+    padding: 10px;
+    text-align: center;
+
+}
+.Guidance {
+    padding: 10px;
+    text-align: center;
+}
+.TakeaBreak {
+    padding: 10px;
+    text-align: center;
+}
+
+
+
+
+
+
+.HeroTitle {
+    font-family: 'Quicksand', sans-serif;
+    margin: 4em;
+    text-align: left;
+    color: white;
+    }
+
+
+
+
+.GuidanceHero{
+    font-family: 'Quicksand', sans-serif;
+    padding: 20px;
+    text-align: left;
+    color: white;
+    
+    
+}
+
+.flexbox-container {
+    display: flex;
+    justify-content: center;
+    gap: 1em;
+    flex-wrap: wrap;
+    padding: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+    width: 1400px;
+    height: 700px;
+}
+.flexbox-item.two {
+    height: 220px;
+    width: 268px; 
+    
+    
+}
+.flexbox-item.three {
+    height: 220px;
+    width: 268px;  
+     
+}
+.flexbox-item.four {
+    height: 220px;
+    width: 268px;  
+     
+}
+.flexbox-item.five {
+    height: 220px;
+    width: 268px; 
+       
+}
+.MoreExercises {
+    display: flex;
+    padding-top: 300px;
+}
+.flex-container.ExerciseCategories > * {
+    display: flex;
+    padding: 20px;
+    margin: 20px;
+    flex-wrap: wrap;
+}
+.flexbox-item.CatOne {
+    padding: 10em;
+    display: flex;
+}
+.flexbox-item.CatTwo {
+    padding: 10em;
+    display: flex;
+}
+.flexbox-item.CatThree {
+    padding: 10em;
+    display: flex;
+}
+.flexbox-item.CatFour {
+    padding: 10em;
+    display: flex;
+}
+.CategoriesTitle {
+    color: white;
+    padding-left: 120px;
+    font-family: 'Quicksand', sans-serif;
+}
+.flexbox-item.exercise-desc-one {
+    display: flex;
+    width: 400px;
+    height: 100px;
+    padding: 30px;
+    font-family: 'Quicksand', sans-serif;
+    justify-content: space-between;
+    align-items: right;
+    color: white;
+    font-size: 18pt;
+
+   
+}
+.flexbox-item.exercise-desc-two {
+    display: flex;
+    width: 400px;
+    height: 100px;
+    padding: 30px;
+    font-family: 'Quicksand', sans-serif;
+    justify-content: space-between;
+    align-items: right;
+    color: white;
+}
+.flexbox-item.exercise-desc-three {
+    display: flex;
+    width: 400px;
+    height: 100px;
+    padding: 30px;
+    font-family: 'Quicksand', sans-serif;
+    justify-content: space-between;
+    align-items: right;
+    color: white;
+}
+.flexbox-item.exercise-desc-four {
+    display: flex;
+    width: 400px;
+    height: 100px;
+    padding: 30px;
+    font-family: 'Quicksand', sans-serif;
+    justify-content: space-between;
+    align-items: right;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.TanWave {
+    height: 100px;
+    display: flex;
+    width: 100%;
+    border-bottom: #CEC5B4;
+    padding-bottom: -10px;
+}
+.footerlinks {
+    background-color: #CEC5B4;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.footericons {
+    background-color: #CEC5B4;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
+.FooterText {
+    width: 200px;
+    height: 200px;
+    font-size: 24px;
+    margin: 150px;
+}
+footer {
+    border-top: #CEC5B4;
+    background-color: #CEC5B4 ;
+    display: flex;
+    text-align: left;
+    color: black;
+    padding: 70px;
+    display: flex;
+}
